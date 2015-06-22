@@ -13,7 +13,7 @@ $ npm install validate-yaml --save
 ### Usage
 
 ```javascript
-const yaml = require('validate-yaml');
+const validate = require('validate-yaml');
 
 let source; // yaml source
 
