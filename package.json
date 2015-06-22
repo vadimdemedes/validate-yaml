@@ -4,7 +4,7 @@
   "description": "Validate yaml",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha test/test"
+    "test": "./node_modules/.bin/mocha --harmony test/test"
   },
   "repository": {
     "type": "git",
