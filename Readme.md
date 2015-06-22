@@ -1,4 +1,4 @@
-# validate-yaml
+# validate-yaml [![Circle CI](https://circleci.com/gh/vdemedes/validate-yaml.svg?style=svg)](https://circleci.com/gh/vdemedes/validate-yaml)
 
 Validate yaml source.
 
@@ -22,6 +22,8 @@ let isValid = validate(source); // true/false
 
 
 ### Tests
+
+[![Circle CI](https://circleci.com/gh/vdemedes/validate-yaml.svg?style=svg)](https://circleci.com/gh/vdemedes/validate-yaml)
 
 ```
 $ npm test
